@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|c:\\users\\juanp\\onedrive\\documentos\\github\\reboot\\new\\assets\\scripts\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\assets\\scripts\\comp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\assets\\scripts\\comp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\assets\\scripts\\comp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|c:\\users\\juanp\\onedrive\\documentos\\github\\reboot\\new\\assets\\scripts\\crearcubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crearcubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\assets\\scripts\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26BEAA7C-4BB2-4E68-3384-49DC06EE3EC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +50,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearCubo.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\CrearCubo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CrearCubo.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\CrearCubo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CrearCubo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T23:21:55.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comp1.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\Comp1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Comp1.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\Comp1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Comp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:49:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comp2.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\Comp2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Comp2.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\Comp2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Comp2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:48:38.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Comp3.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\Comp3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Comp3.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\Comp3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Comp3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:48:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HolaMundo.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\HolaMundo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HolaMundo.cs",
               "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documentos\\GitHub\\reboot\\New\\Assets\\Scripts\\HolaMundo.cs",
               "RelativeToolTip": "Assets\\Scripts\\HolaMundo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T06:59:53.076Z",
               "EditorCaption": ""
